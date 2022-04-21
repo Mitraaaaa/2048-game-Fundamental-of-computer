@@ -1,2 +1,3 @@
-# Fundamentals-of-Computer
-## 2048 game 
+# 2048 game 
+## The Fundamentals Of Programming And Computer 
+written by Mitra Omrani
